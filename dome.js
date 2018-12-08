@@ -47,23 +47,22 @@ var sites = {
 				"Play Music"		: "https://play.google.com/music/listen?u=1",
 				"Last.FM"			: "https://www.last.fm/user/torafuma"
 			},
-			"Google": {
+			"Productivity": {
 				"GMail"				: "https://mail.google.com/mail/u/1/",
 				"Inbox"				: "https://inbox.google.com/u/1/?pli=1",
+				"Outlook"			: "https://outlook.office365.com/owa",
 				"Photos"			: "https://photos.google.com/u/1/",
 				"Drive"				: "https://drive.google.com/drive/u/1/my-drive",
 				"Keep"				: "https://keep.google.com/u/1/"
 			},
 			"Code": {
 				"Github"			: "https://github.com/mikepruett3?tab=repositories",
-				"Google Cloud"		: "https://console.cloud.google.com/storage/",
-				"Papertrail"		: "https://papertrailapp.com/"
+				"Google Cloud"		: "https://console.cloud.google.com/storage/"
 			},
 			"Other": {
 				"Amazon"			: "http://amazon.com/",
 				"EBay"				: "https://www.ebay.com/myb/Summary",
 				"GIXEN"				: "https://www.gixen.com/",
-				"Guerrilla Mail"	: "https://www.guerrillamail.com/#",
 				"KEYBR.COM"			: "http://www.keybr.com/"
 			},
 			"Games": { // To find the game ID check the url in the store page or the community page
