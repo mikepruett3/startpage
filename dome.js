@@ -142,7 +142,7 @@ document.onkeydown = function(e) {
 		default:
 			break;
 	}
-	document.getElementById("action").children[0].focus();
+	document.getElementById("action").children[0].autofocus();
 }
 
 document.getElementById("action").children[0].onkeypress = function(e) {
