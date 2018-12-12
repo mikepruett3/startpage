@@ -81,7 +81,7 @@ var query  = "q";							// The query variable name for the search engine
 var pivotmatch = 0;
 var totallinks = 0;
 var prevregexp = "";
-
+	
 // ---------- BUILD PAGE ----------
 function matchLinks(regex = prevregexp) {
 	totallinks = 0;
@@ -113,7 +113,6 @@ function matchLinks(regex = prevregexp) {
 					document.getElementById("action").action = sites[sn][ln];
 					document.getElementById("action").children[0].removeAttribute("name");
 				}
-				link.target = "_blank";
 				inner.appendChild(link);
 				matches = true;
 				gmatches = true;
@@ -143,6 +142,7 @@ document.onkeydown = function(e) {
 		default:
 			break;
 	}
+	document.getElementById("action").children[0].focus();
 }
 
 document.getElementById("action").children[0].onkeypress = function(e) {
