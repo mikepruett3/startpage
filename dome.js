@@ -108,6 +108,7 @@ function matchLinks(regex = prevregexp) {
 				link = document.createElement("a");
 				link.href = sites[sn][ln];
 				link.innerHTML = ln;
+				link.target = "_blank";
 				if (!pivotbuffer++ && regex != "") {
 					link.className = "selected";
 					document.getElementById("action").action = sites[sn][ln];
