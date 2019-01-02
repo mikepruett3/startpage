@@ -37,13 +37,13 @@ var sites = {
 				"Reddit"			: "https://www.reddit.com",
 				"Telegram"			: "https://web.telegram.org",
 				"Twitch"			: "https://www.twitch.tv/directory/following/",
-				"Instapaper"		: "http://instapaper.com/u",
+				"Instapaper"		: "https://instapaper.com/u",
 				"4/vr/"				: "https://boards.4chan.org/vr/"
 			},
 			"Media": {
 				"Youtube"			: "https://www.youtube.com/feed/subscriptions?app=desktop",
 				"Plex"				: "https://app.plex.tv/desktop",
-				"Media Portal"		: "http://media.torafuma.com/",
+				"Media Portal"		: "https://media.torafuma.com/",
 				"Play Music"		: "https://play.google.com/music/listen?u=1",
 				"Last.FM"			: "https://www.last.fm/user/torafuma"
 			},
@@ -60,13 +60,13 @@ var sites = {
 				"Google Cloud"		: "https://console.cloud.google.com/storage/"
 			},
 			"Other": {
-				"Amazon"			: "http://amazon.com/",
+				"Amazon"			: "https://amazon.com/",
 				"EBay"				: "https://www.ebay.com/myb/Summary",
 				"GIXEN"				: "https://www.gixen.com/",
-				"KEYBR.COM"			: "http://www.keybr.com/"
+				"KEYBR.COM"			: "https://www.keybr.com/"
 			},
 			"Games": { // To find the game ID check the url in the store page or the community page
-				"TypeRacer"			: "http://play.typeracer.com/",
+				"TypeRacer"			: "https://play.typeracer.com/",
 				"7 Days to Die"		: "steam://run/251570",
 				"Warframe"			: "steam://run/230410",
 				"Warfame Farmlist"	: "https://wf.xuerian.net/e6cd7ed4-2bb1-460e-a82e-eac26bef50cc#wishlist",
@@ -75,7 +75,7 @@ var sites = {
 			}
 		};
 
-var search = "https://google.com/search";		// The search engine
+var search = "https://duckduckgo.com/";		// The search engine
 var query  = "q";						// The query variable name for the search engine
 
 var pivotmatch = 0;
