@@ -57,7 +57,8 @@ var sites = {
 			},
 			"Code": {
 				"Github"			: "https://github.com/mikepruett3?tab=repositories",
-				"Google Cloud"		: "https://console.cloud.google.com/storage/"
+				"Google Cloud"		: "https://console.cloud.google.com/storage/",
+				"ifconfig"			: "https://ifconfig.co/"
 			},
 			"Other": {
 				"Amazon"			: "https://amazon.com/",
