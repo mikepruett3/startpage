@@ -160,7 +160,7 @@ function displayClock() {
 }
 
 function getExternalIP() {
-	$.getJSON('https://ifconfig.co/json', function(data) {
+	$.getJSON('http://ipinfo.io', function(data) {
 		var extIP = data.ip;
 		document.getElementById("information").innerText = extIP;
 	})
