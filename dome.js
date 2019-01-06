@@ -159,8 +159,17 @@ function displayClock() {
 	document.getElementById("clock").innerHTML = date + ", " + clock;
 }
 
+function getExternalIP() {
+	$.getJSON('https://ifconfig.co/json', function(data) {
+		var extIP = data.ip;
+		document.getElementById("information").innerText = extIP;
+	})
+}
+
 window.onload = matchLinks();
 
 displayClock();
 
 setInterval(displayClock, 1000);
+
+getExternalIP();
