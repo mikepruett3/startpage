@@ -61,6 +61,8 @@ var sites = {
 				"ifconfig"			: "https://ifconfig.co/"
 			},
 			"Other": {
+				"Grafana"			: "https://grafana.torafuma.com",
+				"Home Assistant"	: "https://hass.torafuma.com",
 				"Amazon"			: "https://amazon.com/",
 				"EBay"				: "https://www.ebay.com/myb/Summary",
 				"GIXEN"				: "https://www.gixen.com/",
