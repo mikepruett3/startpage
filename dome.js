@@ -73,15 +73,10 @@ var sites = {
 				"Amazon"			: "https://amazon.com/",
 				"EBay"				: "https://www.ebay.com/myb/Summary",
 				"GIXEN"				: "https://www.gixen.com/",
-				"KEYBR.COM"			: "https://www.keybr.com/"
-			},
-			"Games": { // To find the game ID check the url in the store page or the community page
+				"KEYBR.COM"			: "https://www.keybr.com/",
 				"TypeRacer"			: "https://play.typeracer.com/",
-				"7 Days to Die"		: "steam://run/251570",
 				"Warframe"			: "steam://run/230410",
-				"Warfame Farmlist"	: "https://wf.xuerian.net/e6cd7ed4-2bb1-460e-a82e-eac26bef50cc#wishlist",
-				"Ark"				: "steam://run/346110",
-				"Terraria"			: "steam://run/105600"
+				"Warfame Farmlist"	: "https://wf.xuerian.net/e6cd7ed4-2bb1-460e-a82e-eac26bef50cc#wishlist"
 			}
 		};
 
