@@ -35,6 +35,7 @@
 var sites = {
 			"Social": {
 				"Reddit"			: "https://www.reddit.com",
+				"r"					: "https://reddit.com/search",
 				"Telegram"			: "https://web.telegram.org",
 				"Twitch"			: "https://www.twitch.tv/directory/following/",
 				"Instapaper"		: "https://instapaper.com/u",
