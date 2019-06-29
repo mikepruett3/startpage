@@ -40,10 +40,19 @@ var sites = {
 				"Instapaper"		: "https://instapaper.com/u",
 				"4/vr/"				: "https://boards.4chan.org/vr/"
 			},
+			"Servers": {
+				"Home Assistant"	: "https://hass.torafuma.com",
+				"DVR"				: "https://dvr.torafuma.com",
+				"TasmoAdmin"		: "https://tasmoadmin.torafuma.com",
+				"Media Portal"		: "https://media.torafuma.com",
+				"Request"			: "https://request.torafuma.com",
+				"UNMS"				: "https://unms.torafuma.com",
+				"PiHole"			: "https://pihole.torafuma.com",
+				"Grafana"			: "https://grafana.torafuma.com",
+			},
 			"Media": {
 				"Youtube"			: "https://www.youtube.com/feed/subscriptions?app=desktop",
 				"Plex"				: "https://app.plex.tv/desktop",
-				"Media Portal"		: "https://media.torafuma.com/",
 				"Play Music"		: "https://play.google.com/music/listen?u=1",
 				"Last.FM"			: "https://www.last.fm/user/torafuma"
 			},
@@ -61,8 +70,6 @@ var sites = {
 				"ifconfig"			: "https://ifconfig.co/"
 			},
 			"Other": {
-				"Grafana"			: "https://grafana.torafuma.com",
-				"Home Assistant"	: "https://hass.torafuma.com",
 				"Amazon"			: "https://amazon.com/",
 				"EBay"				: "https://www.ebay.com/myb/Summary",
 				"GIXEN"				: "https://www.gixen.com/",
