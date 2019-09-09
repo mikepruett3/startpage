@@ -37,6 +37,8 @@ var sites = {
 				"Reddit"			: "https://www.reddit.com",
 				"Telegram"			: "https://web.telegram.org",
 				"Twitch"			: "https://www.twitch.tv/directory/following/",
+				"Blog"				: "http://www.nixdevil.com/",
+				"Wiki"				: "https://wiki.nixdevil.com",
 				"Instapaper"		: "https://instapaper.com/u",
 				"4/vr/"				: "https://boards.4chan.org/vr/"
 			},
@@ -58,7 +60,6 @@ var sites = {
 			},
 			"Productivity": {
 				"GMail"				: "https://mail.google.com/mail/u/1/",
-				"Inbox"				: "https://inbox.google.com/u/1/?pli=1",
 				"Outlook"			: "https://outlook.office365.com/owa",
 				"Photos"			: "https://photos.google.com/u/1/",
 				"Drive"				: "https://drive.google.com/drive/u/1/my-drive",
