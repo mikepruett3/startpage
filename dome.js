@@ -58,11 +58,11 @@ var sites = {
 				"Last.FM"			: "https://www.last.fm/user/torafuma"
 			},
 			"Productivity": {
-				"GMail"				: "https://mail.google.com/mail/u/1/",
+				"GMail"				: "https://mail.google.com/mail/u/0/",
 				"Outlook"			: "https://outlook.office365.com/owa",
-				"Photos"			: "https://photos.google.com/u/1/",
-				"Drive"				: "https://drive.google.com/drive/u/1/my-drive",
-				"Keep"				: "https://keep.google.com/u/1/"
+				"Photos"			: "https://photos.google.com/u/0/",
+				"Drive"				: "https://drive.google.com/drive/u/0/my-drive",
+				"Keep"				: "https://keep.google.com/u/0/"
 			},
 			"Code": {
 				"Github"			: "https://github.com/mikepruett3?tab=repositories",
