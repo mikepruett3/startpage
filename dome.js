@@ -39,8 +39,7 @@ var sites = {
 				"Twitch"			: "https://www.twitch.tv/directory/following/",
 				"Blog"				: "http://www.nixdevil.com/",
 				"Wiki"				: "https://wiki.nixdevil.com",
-				"Instapaper"		: "https://instapaper.com/u",
-				"4/vr/"				: "https://boards.4chan.org/vr/"
+				"Instapaper"		: "https://instapaper.com/u"
 			},
 			"Servers": {
 				"Home Assistant"	: "https://hass.torafuma.com",
@@ -76,6 +75,7 @@ var sites = {
 				"GIXEN"				: "https://www.gixen.com/",
 				"KEYBR.COM"			: "https://www.keybr.com/",
 				"TypeRacer"			: "https://play.typeracer.com/",
+				"Krunker"			: "https://krunker.io",
 				"Warframe"			: "steam://run/230410",
 				"Warfame Farmlist"	: "https://wf.xuerian.net/e6cd7ed4-2bb1-460e-a82e-eac26bef50cc#wishlist"
 			}
