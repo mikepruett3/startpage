@@ -39,6 +39,7 @@ var sites = {
 				"Twitch"			: "https://www.twitch.tv/directory/following/",
 				"Blog"				: "http://www.nixdevil.com/",
 				"Wiki"				: "https://wiki.nixdevil.com",
+				"Nixers"			: "https://nixers.net/",
 				"Instapaper"		: "https://instapaper.com/u"
 			},
 			"Servers": {
@@ -48,7 +49,6 @@ var sites = {
 				"Media Portal"		: "https://media.torafuma.com",
 				"Request"			: "https://request.torafuma.com",
 				"UNMS"				: "https://unms.torafuma.com",
-				"PiHole"			: "https://pihole.torafuma.com",
 				"Grafana"			: "https://grafana.torafuma.com",
 			},
 			"Media": {
