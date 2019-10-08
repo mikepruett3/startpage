@@ -50,6 +50,7 @@ var sites = {
 				"Request"			: "https://request.torafuma.com",
 				"UNMS"				: "https://unms.torafuma.com",
 				"Grafana"			: "https://grafana.torafuma.com",
+				"MinIO"				: "https://minio.nixdevil.com"
 			},
 			"Media": {
 				"Youtube"			: "https://www.youtube.com/feed/subscriptions?app=desktop",
