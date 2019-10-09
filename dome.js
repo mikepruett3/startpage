@@ -48,6 +48,7 @@ var sites = {
 				"TasmoAdmin"		: "https://tasmoadmin.torafuma.com",
 				"Media Portal"		: "https://media.torafuma.com",
 				"Request"			: "https://request.torafuma.com",
+				"Nginx Proxy Manager"	: "https://proxy.torafuma.com/",
 				"UNMS"				: "https://unms.torafuma.com",
 				"Grafana"			: "https://grafana.torafuma.com",
 				"MinIO"				: "https://minio.nixdevil.com"
