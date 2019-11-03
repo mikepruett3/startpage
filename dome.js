@@ -51,7 +51,9 @@ var sites = {
 				"Nginx Proxy Manager"	: "https://proxy.torafuma.com/",
 				"UNMS"				: "https://unms.torafuma.com",
 				"Grafana"			: "https://grafana.torafuma.com",
-				"MinIO"				: "https://minio.nixdevil.com"
+				"MinIO"				: "https://minio.nixdevil.com",
+				"Portainer (Home)"	: "https://docker.torafuma.com",
+				"Portainer (Nix)"	: "https://docker.nixdevil.com"
 			},
 			"Media": {
 				"Youtube"			: "https://www.youtube.com/feed/subscriptions?app=desktop",
