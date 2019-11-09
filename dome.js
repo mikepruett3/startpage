@@ -37,27 +37,29 @@ var sites = {
 				"Reddit"			: "https://www.reddit.com",
 				"Telegram"			: "https://web.telegram.org",
 				"Twitch"			: "https://www.twitch.tv/directory/following/",
-				"Blog"				: "http://www.nixdevil.com/",
-				"Wiki"				: "https://wiki.nixdevil.com",
 				"Nixers"			: "https://nixers.net/",
 				"Instapaper"		: "https://instapaper.com/u"
 			},
-			"Servers": {
+			"Nixdevil": {
+				"Blog"				: "http://www.nixdevil.com/",
+				"Wiki"				: "https://wiki.nixdevil.com",
+				"MinIO"				: "https://minio.nixdevil.com",
+				"Portainer (Nix)"	: "https://docker.nixdevil.com"
+			},
+			"Torafuma": {
 				"Home Assistant"	: "https://hass.torafuma.com",
 				"DVR"				: "https://dvr.torafuma.com",
 				"TasmoAdmin"		: "https://tasmoadmin.torafuma.com",
-				"Media Portal"		: "https://media.torafuma.com",
-				"Request"			: "https://request.torafuma.com",
 				"Nginx Proxy Manager"	: "https://proxy.torafuma.com/",
 				"UNMS"				: "https://unms.torafuma.com",
 				"Grafana"			: "https://grafana.torafuma.com",
-				"MinIO"				: "https://minio.nixdevil.com",
-				"Portainer (Home)"	: "https://docker.torafuma.com",
-				"Portainer (Nix)"	: "https://docker.nixdevil.com"
+				"Portainer (Home)"	: "https://docker.torafuma.com"
 			},
 			"Media": {
 				"Youtube"			: "https://www.youtube.com/feed/subscriptions?app=desktop",
 				"Plex"				: "https://app.plex.tv/desktop",
+				"Media Portal"		: "https://media.torafuma.com",
+				"Request"			: "https://request.torafuma.com",
 				"Play Music"		: "https://play.google.com/music/listen?u=1",
 				"Last.FM"			: "https://www.last.fm/user/torafuma"
 			},
@@ -66,22 +68,30 @@ var sites = {
 				"Outlook"			: "https://outlook.office365.com/owa",
 				"Photos"			: "https://photos.google.com/u/0/",
 				"Drive"				: "https://drive.google.com/drive/u/0/my-drive",
-				"Keep"				: "https://keep.google.com/u/0/"
+				"Keep"				: "https://keep.google.com/u/0/",
+				"KEYBR.COM"			: "https://www.keybr.com/"
+			},
+			"Linux": {
+				"CentOS-Announce"	: "https://lists.centos.org/pipermail/centos-announce/",
+				"Rapid7 Database"	: "https://www.rapid7.com/db/",
+				"PaloAlto Applipedia"	: "https://applipedia.paloaltonetworks.com/"
 			},
 			"Code": {
 				"Github"			: "https://github.com/mikepruett3?tab=repositories",
 				"Google Cloud"		: "https://console.cloud.google.com/storage/",
 				"ifconfig"			: "https://ifconfig.co/"
 			},
-			"Other": {
+			"Shopping": {
 				"Amazon"			: "https://amazon.com/",
 				"EBay"				: "https://www.ebay.com/myb/Summary",
-				"GIXEN"				: "https://www.gixen.com/",
-				"KEYBR.COM"			: "https://www.keybr.com/",
+				"GIXEN"				: "https://www.gixen.com/"
+			},
+			"Gaming":{
 				"TypeRacer"			: "https://play.typeracer.com/",
 				"Krunker"			: "https://krunker.io",
 				"Warframe"			: "steam://run/230410",
-				"Warfame Farmlist"	: "https://wf.xuerian.net/e6cd7ed4-2bb1-460e-a82e-eac26bef50cc#wishlist"
+				"Warfame Farmlist"	: "https://wf.xuerian.net/e6cd7ed4-2bb1-460e-a82e-eac26bef50cc#wishlist",
+				"Warfame Market"	: "https://warframe.market/"
 			}
 		};
 
