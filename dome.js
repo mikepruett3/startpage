@@ -54,9 +54,7 @@ var sites = {
 				"Nginx Proxy Manager"	: "https://proxy.torafuma.com/",
 				"UNMS"				: "https://unms.torafuma.com",
 				"Grafana"			: "https://grafana.torafuma.com",
-				"Portainer (Home)"	: "https://docker.torafuma.com",
-				"Backup - websrv"	: "http://websrv.dbz.home:8200/ngax/index.html",
-				"Backup - homesrv"	: "http://homesrv.dbz.home:8200/ngax/index.html"
+				"Portainer (Home)"	: "https://docker.torafuma.com"
 			},
 			"Media": {
 				"Youtube"			: "https://www.youtube.com/feed/subscriptions?app=desktop",
@@ -91,6 +89,10 @@ var sites = {
 				"Warframe"			: "steam://run/230410",
 				"Warfame Farmlist"	: "https://wf.xuerian.net/e6cd7ed4-2bb1-460e-a82e-eac26bef50cc#wishlist",
 				"Warfame Market"	: "https://warframe.market/"
+			},
+			"Home": {
+				"Backup - websrv"	: "http://websrv.dbz.home:8200/ngax/index.html",
+				"Backup - homesrv"	: "http://homesrv.dbz.home:8200/ngax/index.html"
 			}
 		};
 
