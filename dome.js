@@ -38,7 +38,8 @@ var sites = {
 				"Telegram"			: "https://web.telegram.org",
 				"Twitch"			: "https://www.twitch.tv/directory/following/",
 				"Nixers"			: "https://nixers.net/",
-				"Instapaper"		: "https://instapaper.com/u"
+				"Instapaper"		: "https://instapaper.com/u",
+				"Booky.io"			: "https://booky.io/"
 			},
 			"Nixdevil": {
 				"Blog"				: "http://www.nixdevil.com/",
@@ -53,7 +54,9 @@ var sites = {
 				"Nginx Proxy Manager"	: "https://proxy.torafuma.com/",
 				"UNMS"				: "https://unms.torafuma.com",
 				"Grafana"			: "https://grafana.torafuma.com",
-				"Portainer (Home)"	: "https://docker.torafuma.com"
+				"Portainer (Home)"	: "https://docker.torafuma.com",
+				"Backup - websrv"	: "http://websrv.dbz.home:8200/ngax/index.html",
+				"Backup - homesrv"	: "http://homesrv.dbz.home:8200/ngax/index.html"
 			},
 			"Media": {
 				"Youtube"			: "https://www.youtube.com/feed/subscriptions?app=desktop",
@@ -71,11 +74,6 @@ var sites = {
 				"Keep"				: "https://keep.google.com/u/0/",
 				"KEYBR.COM"			: "https://www.keybr.com/"
 			},
-			"Linux": {
-				"CentOS-Announce"	: "https://lists.centos.org/pipermail/centos-announce/",
-				"Rapid7 Database"	: "https://www.rapid7.com/db/",
-				"PaloAlto Applipedia"	: "https://applipedia.paloaltonetworks.com/"
-			},
 			"Code": {
 				"Github"			: "https://github.com/mikepruett3?tab=repositories",
 				"Google Cloud"		: "https://console.cloud.google.com/storage/",
@@ -87,6 +85,7 @@ var sites = {
 				"GIXEN"				: "https://www.gixen.com/"
 			},
 			"Gaming":{
+				"Diablo 3 Season Tracker"	: "https://d3resource.com/journey/index.php",
 				"TypeRacer"			: "https://play.typeracer.com/",
 				"Krunker"			: "https://krunker.io",
 				"Warframe"			: "steam://run/230410",
