@@ -83,6 +83,7 @@ var sites = {
 				"GIXEN"				: "https://www.gixen.com/"
 			},
 			"Gaming":{
+				"EFT Weapon Modding"		: "https://www.eftdb.one/weaponmodding/220001/AK-74N/",
 				"Diablo 3 Season Tracker"	: "https://d3resource.com/journey/index.php",
 				"TypeRacer"			: "https://play.typeracer.com/",
 				"Krunker"			: "https://krunker.io",
