@@ -80,20 +80,24 @@ var sites = {
 			"Shopping": {
 				"Amazon"			: "https://amazon.com/",
 				"EBay"				: "https://www.ebay.com/myb/Summary",
-				"GIXEN"				: "https://www.gixen.com/"
+				"GIXEN"				: "https://www.gixen.com/",
+				"GovDeals"			: "http://www.govdeals.com",
+				"GSA Auctions"		: "https://gsaauctions.gov/gsaauctions/gsaauctions/"
 			},
 			"Gaming":{
 				"EFT Weapon Modding"		: "https://www.eftdb.one/weaponmodding/220001/AK-74N/",
 				"Diablo 3 Season Tracker"	: "https://d3resource.com/journey/index.php",
 				"TypeRacer"			: "https://play.typeracer.com/",
+				"TypeDrummer"		: "http://typedrummer.com/",
 				"Krunker"			: "https://krunker.io",
 				"Warframe"			: "steam://run/230410",
 				"Warfame Farmlist"	: "https://wf.xuerian.net/e6cd7ed4-2bb1-460e-a82e-eac26bef50cc#wishlist",
 				"Warfame Market"	: "https://warframe.market/"
 			},
-			"Home": {
-				"Backup - websrv"	: "http://websrv.dbz.home:8200/ngax/index.html",
-				"Backup - homesrv"	: "http://homesrv.dbz.home:8200/ngax/index.html"
+			"Jokes": {
+				"8bitdash"			: "http://www.8bitdash.com",
+				"WAN"				: "http://wanwan.moe",
+				"Jurassic Systems"	: "http://www.jurassicsystems.com/about"
 			}
 		};
 
