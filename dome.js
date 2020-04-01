@@ -97,7 +97,8 @@ var sites = {
 			"Jokes": {
 				"8bitdash"			: "http://www.8bitdash.com",
 				"WAN"				: "http://wanwan.moe",
-				"Jurassic Systems"	: "http://www.jurassicsystems.com/about"
+				"Jurassic Systems"	: "http://www.jurassicsystems.com/about",
+				"Sixteen Colors"	: "http://sixteencolors.net"
 			}
 		};
 
