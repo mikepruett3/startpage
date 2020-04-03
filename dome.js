@@ -49,6 +49,7 @@ var sites = {
 			},
 			"Torafuma": {
 				"Home Assistant"	: "https://hass.torafuma.com",
+				"Reader"			: "https://reader.torafuma.com",
 				"DVR"				: "https://dvr.torafuma.com",
 				"TasmoAdmin"		: "https://tasmoadmin.torafuma.com",
 				"Nginx Proxy Manager"	: "https://proxy.torafuma.com/",
