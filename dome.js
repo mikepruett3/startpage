@@ -1,6 +1,6 @@
 /*
  *
- * @licstart  The following is the entire license notice for the 
+ * @licstart  The following is the entire license notice for the
  *  JavaScript code in this page.
  *
  * Copyright (C) 2018 Jaume Fuster i Claris
@@ -50,7 +50,7 @@ var sites = {
 			"Torafuma": {
 				"Home Assistant"	: "https://hass.torafuma.com",
 				"Reader"			: "https://reader.torafuma.com",
-				"Nginx Proxy Manager"	: "https://proxy.torafuma.com/",
+				"OctoPrint"			: "http://3dprinter.dbz.home:5000/",
 				"UNMS"				: "https://unms.torafuma.com",
 				"Grafana"			: "https://grafana.torafuma.com",
 				"Portainer (Home)"	: "https://docker.torafuma.com",
@@ -86,6 +86,7 @@ var sites = {
 				"GSA Auctions"		: "https://gsaauctions.gov/gsaauctions/gsaauctions/"
 			},
 			"Gaming":{
+				"Prime Gaming"		: "https://gaming.amazon.com/home",
 				"EFT Weapon Modding"		: "https://www.eftdb.one/weaponmodding/220001/AK-74N/",
 				"Diablo 3 Season Tracker"	: "https://d3resource.com/journey/index.php",
 				"TypeRacer"			: "https://play.typeracer.com/",
@@ -109,7 +110,7 @@ var query  = "q";						// The query variable name for the search engine
 var pivotmatch = 0;
 var totallinks = 0;
 var prevregexp = "";
-	
+
 // ---------- BUILD PAGE ----------
 function matchLinks(regex = prevregexp) {
 	totallinks = 0;
