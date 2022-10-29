@@ -44,13 +44,13 @@ var sites = {
 			},
 			"Nixdevil": {
 				"Blog"				: "http://www.nixdevil.com/",
-				"Wiki"				: "https://wiki.nixdevil.com",
 				"MinIO"				: "https://minio.nixdevil.com",
 				"Portainer (Nix)"	: "https://docker.nixdevil.com"
 			},
 			"Torafuma": {
 				"Home Assistant"	: "https://hass.torafuma.com",
 				"Reader"			: "https://reader.torafuma.com",
+				"Gitea"				: "https://git.torafuma.com/",
 				"OctoPrint"			: "http://3dprinter.dbz.home:5000/",
 				"UNMS"				: "https://unms.torafuma.com",
 				"Grafana"			: "https://grafana.torafuma.com",
