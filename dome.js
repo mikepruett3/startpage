@@ -67,6 +67,7 @@ var sites = {
 				"Last.FM"			: "https://www.last.fm/user/torafuma"
 			},
 			"Productivity": {
+				"Remote Desktop"	: "https://remotedesktop.google.com/access/",
 				"GMail"				: "https://mail.google.com/mail/u/0/",
 				"Outlook"			: "https://outlook.office365.com/owa",
 				"Photos"			: "https://photos.google.com/u/0/",
