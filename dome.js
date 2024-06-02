@@ -54,9 +54,7 @@ var sites = {
 				"OctoPrint"			: "http://3dprinter.dbz.home:5000/",
 				"UNMS"				: "https://unms.torafuma.com",
 				"Grafana"			: "https://grafana.torafuma.com",
-				"Portainer (Home)"	: "https://docker.torafuma.com",
-				"homesrv-bkup"		: "https://homesrv-bkup.torafuma.com",
-				"websrv-bkup"		: "https://websrv-bkup.torafuma.com"
+				"Portainer (Home)"	: "https://docker.torafuma.com"
 			},
 			"Media": {
 				"Youtube"			: "https://www.youtube.com/feed/subscriptions?app=desktop",
