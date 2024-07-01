@@ -45,7 +45,8 @@ var sites = {
 			"Nixdevil": {
 				"Blog"				: "http://www.nixdevil.com/",
 				"MinIO"				: "https://minio.nixdevil.com",
-				"Portainer (Nix)"	: "https://docker.nixdevil.com"
+				"Portainer (Nix)"	: "https://docker.nixdevil.com",
+				"Bitwarden"			: "https://vault.torafuma.com"
 			},
 			"Torafuma": {
 				"Home Assistant"	: "https://hass.torafuma.com",
