@@ -44,14 +44,14 @@ var sites = {
 			},
 			"Nixdevil": {
 				"Blog"				: "http://www.nixdevil.com/",
-				"MinIO"				: "https://minio.nixdevil.com",
+				"MinIO"				: "https://minio.puma-kelvin.ts.net/",
 				"Portainer (Nix)"	: "https://docker.nixdevil.com",
 				"Bitwarden"			: "https://vault.torafuma.com"
 			},
 			"Torafuma": {
 				"Home Assistant"	: "https://hass.torafuma.com",
 				"Reader"			: "https://reader.torafuma.com",
-				"Gitea"				: "https://git.torafuma.com/",
+				"Gitea"				: "https://gitea.puma-kelvin.ts.net/",
 				"OctoPrint"			: "http://3dprinter.dbz.home:5000/",
 				"UNMS"				: "https://unms.torafuma.com",
 				"Grafana"			: "https://grafana.torafuma.com",
